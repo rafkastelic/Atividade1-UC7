@@ -1,5 +1,5 @@
 # Atividade1-UC7
-Versão Beta 2
+Resposta da Atividade 1 --------
 Principais comandos
 git init
 git status
